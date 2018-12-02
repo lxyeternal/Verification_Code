@@ -25,10 +25,10 @@ CHAR_SET_LEN = 10
 CAPTCHA_LEN = 4
 
 #   训练验证码的保存位置
-CAPTCHA_IMAGE_PATH = "/Volumes/study/2018大三上课程/大数据分析/作业/train_picture/"
+CAPTCHA_IMAGE_PATH = "C:/Users/17963/Desktop/2018大三上课程/大数据/作业/Verification_Code-master/train_picture/"
 
 #   测试训练验证码的保存位置
-TEST_IMAGE_PATH = "/Volumes/study/2018大三上课程/大数据分析/作业/test_picture/"
+TEST_IMAGE_PATH = "C:/Users/17963/Desktop/2018大三上课程/大数据/作业/Verification_Code-master/test_picture/"
 
 #   测试验证码的数量
 TEST_IMAGE_NUMBER = 50
